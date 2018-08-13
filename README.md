@@ -2,6 +2,8 @@
 
 > A markdown wiki project use Vue.
 
+[Preview](https://relaxed-heisenberg-04fd26.netlify.com/#/)
+
 ## Build Setup
 
 ``` bash
